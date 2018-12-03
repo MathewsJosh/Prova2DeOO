@@ -1,0 +1,3 @@
+Lista de pokemons escolhidos: [Charmander]
+Lista de sons dos pokemons excolhidos: [CharmanderSound]
+Valor Total dos Pokemons: 230.0
